@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "visible": true,
+        "category": "work",
+        "name": "J2FIT",
+        "url": "http://j2fit.com",
+        "image": "j2fit.jpg",
+        "description": "Personal training",
+        "information": "Senior Front End Developer, Wordpress, Bootstrap, LESS, CSS, HTML5, JavaScript, jQuery, Responsive Design",
+        "client": [
+            {
+                "name": "J2FIT",
+                "url": "http://j2fit.com"
+
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "visible": true,
+        "category": "work",
+        "name": "Blink Fitness",
+        "url": "http://blinkfitness.com/",
+        "image": "blinkfitness.jpg",
+        "description": "Blink Fitness",
+        "information": "Senior Front End Developer, .NET, CSS, CSS3, LESS, Bootstrap, HTML5, JavaScript, jQuery, Responsive Design",
+        "client": [
+            {
+                "name": "BlinkFitness by Equinox",
+                "url": "http://blinkfitness.com"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "visible": true,
+        "category": "work",
+        "name": "Equinox",
+        "url": "http://equinox.com/",
+        "image": "equinox.jpg",
+        "description": "Equinox - It's not Fitness. It's Life. For over 20 years, Equinox fitness clubs have provided an unparalleled member experience, setting new standards from personal training to group fitness to rejuvenating wellness treatments. The results are extraordinary. Tour the clubs and experience what ESPN calls \"the best gym in America.\" Featuring innovative group fitness classes, luxurious spas, exclusive boutiques and nourishing cafes, Equinox clubs provide members with an inviting and exhilarating fitness experience.",
+        "information": "Senior Front End Developer, .NET, CSS, CSS3, SASS, HTML5, JavaScript, jQuery, Backbone JS",
+        "client": [
+            {
+                "name": "Equinox",
+                "url": "http://equinox.com"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "visible": true,
+        "category": "work",
+        "name": "QBlog by Equinox",
+        "url": "http://q.equinox.com/",
+        "image": "qblog.jpg",
+        "description": "Equinox Blog and News Letter",
+        "information": "Senior Front End Developer, .NET, CSS, CSS3, SASS, Bootstrap 3, HTML5, JavaScript, jQuery, Responsive Design",
+        "client": [
+            {
+                "name": "QBlog by Equinox",
+                "url": "http://q.equinox.com"
+            }
+        ]
+    },
+
+    {
+        "id": 6,
+        "visible": true,
+        "category": "work",
+        "name": "New York Color",
+        "url": "http://newyorkcolor.com/",
+        "image": "new_york_color.jpg",
+        "description": "New York Color is highly popular discount beauty brand targeted towards teens and young adults. The New York Color website showcases the offerings of the brand's beauty products that can be found at most drug stores and major retailers. Other content includes a store locator, tips, tutorials, inspiration articles, press exposure, and promotions. Visitors are also able to request samples/communications from the company.",
+        "information": "Drupal 6, CSS, CSS3, HTML5, JavaScript, jQuery, Modernizr, JW Player",
+        "client": [
+            {
+                "name": "COTY",
+                "url": "http://www.coty.com"
+            },
+            {
+                "name": "RAPP",
+                "url": "http://www.rApp.com"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "visible": true,
+        "category": "work",
+        "name": "Playboy Fragrances",
+        "url": "http://www.playboyfragrances.com/",
+        "image": "playboy_fragrances.jpg",
+        "description": "This interactive website showcases the various offerings of the brand's \"For Him\" and \"For Her\" line of fragrances. The site houses photo galleries, editorial content, virtual tours, interviews, quizzes, and a history of the magazine. Playboy Fragrances also allows users to set up their own personal profiles with The Seduction Club. Here users can interact with the site in order to gain points and unlock goodies.",
+        "information": "Drupal 6, CSS, CSS3, HTML5, JavaScript, jQuery, Modernizr, JW Player",
+        "client": [
+            {
+                "name": "COTY",
+                "url": "http://www.coty.com"
+            },
+            {
+                "name": "RAPP",
+                "url": "http://www.rApp.com"
+            }
+        ]
+    }
+]

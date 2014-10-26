@@ -1,0 +1,54 @@
+{
+    "user": {
+        "id": 678550,
+        "username": "MichaelRomanoff",
+        "firstname": "Michael",
+        "lastname": "Romanoff",
+        "birthday": null,
+        "sex": 1,
+        "city": "New York",
+        "state": "NY",
+        "country": "United States",
+        "registration_date": "2012-03-20T11:36:02-04:00",
+        "about": "I'm from New York City. ",
+        "domain": "MichaelRomanoff.500px.com",
+        "fotomoto_on": true,
+        "locale": "en",
+        "show_nude": true,
+        "fullname": "Michael Romanoff",
+        "userpic_url": "http://pacdn.500px.org/678550/db746596ab9358fb2763cd993e525278e452208a/1.jpg?1",
+        "userpic_https_url": "https://gp1.wac.edgecastcdn.net/806614/avatars/avatars.500px.net/678550/db746596ab9358fb2763cd993e525278e452208a/1.jpg?1",
+        "upgrade_status": 1,
+        "store_on": true,
+        "photos_count": 97,
+        "affection": 383,
+        "in_favorites_count": 155,
+        "friends_count": 43,
+        "followers_count": 13,
+        "contacts": {
+            "facebook": "635674296",
+            "twitter": "zelcie",
+            "website": "okgrafix.com",
+            "facebookpage": "www.facebook.com/michael.romanoff"
+        },
+        "equipment": {},
+        "avatars": {
+            "default": {
+                "http": "http://pacdn.500px.org/678550/db746596ab9358fb2763cd993e525278e452208a/1.jpg?1",
+                "https": "https://gp1.wac.edgecastcdn.net/806614/avatars/avatars.500px.net/678550/db746596ab9358fb2763cd993e525278e452208a/1.jpg?1"
+            },
+            "large": {
+                "http": "http://pacdn.500px.org/678550/db746596ab9358fb2763cd993e525278e452208a/2.jpg?1",
+                "https": "https://gp1.wac.edgecastcdn.net/806614/avatars/avatars.500px.net/678550/db746596ab9358fb2763cd993e525278e452208a/2.jpg?1"
+            },
+            "small": {
+                "http": "http://pacdn.500px.org/678550/db746596ab9358fb2763cd993e525278e452208a/3.jpg?1",
+                "https": "https://gp1.wac.edgecastcdn.net/806614/avatars/avatars.500px.net/678550/db746596ab9358fb2763cd993e525278e452208a/3.jpg?1"
+            },
+            "tiny": {
+                "http": "http://pacdn.500px.org/678550/db746596ab9358fb2763cd993e525278e452208a/4.jpg?1",
+                "https": "https://gp1.wac.edgecastcdn.net/806614/avatars/avatars.500px.net/678550/db746596ab9358fb2763cd993e525278e452208a/4.jpg?1"
+            }
+        }
+    }
+}
