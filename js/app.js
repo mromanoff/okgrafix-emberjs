@@ -122,9 +122,13 @@ Ember.Handlebars.helper('format-date', function (date) {
     return moment(date).fromNow();
 });
 
-//Ember.Handlebars.helper('image-link', function (model) {
-//    return '<img src="img/{{category}}/medium/{{image}}" alt="{{name}}" />';
-//});
+
+Ember.Handlebars.helper('image-link', function(model, options) {
+    var category = Handlebars.Utils.escapeExpression(model.get('category'));
+    var image = Handlebars.Utils.escapeExpression(model.get('image'));
+    var name = Handlebars.Utils.escapeExpression(model.get('name'));
+    return new Ember.Handlebars.SafeString('<img class="" src="img/' + category + '/medium/'+ image +'" alt="' + name + '">');
+});
 
 
 /// FIXTURES

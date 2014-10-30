@@ -142,11 +142,12 @@
       <section>
           <h1 class="title">{{unbound pageTitle}}</h1>
           <ul class="portfolio category">
+              {{log 'Model is:' model}}
               {{#each item in model}}
                   {{#if item.visible}}
                       <li>
                           {{#link-to 'workPage' item}}
-                             <img src="img/{{unbound item.category}}/medium/{{unbound item.image}}" alt="{{unbound item.name}}">
+                            {{image-link item}}
                           {{/link-to}}
                           <h4>{{unbound item.name}}</h4>
                       </li>
